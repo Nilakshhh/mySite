@@ -1,0 +1,89 @@
+.introduction{
+    background-color: aqua;
+    padding-top: 100px;
+    height: auto;
+    position: relative;
+}
+
+.name{
+    color: #ff4d4d;
+    font-weight: 300;
+}
+h1{
+    color: #66BFBF;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-size: 560%;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 250%;
+}
+.skill-row{
+    width: 50%;
+    text-align: left;
+    margin: 50px auto 50px auto;
+    line-height: 2;
+}
+.contact-me{
+    margin-top: 40px;
+}
+body{
+    margin: 0;
+    text-align: center;
+    color: #40514E;
+    font-family: 'Merriweather', serif;
+}
+.middleContainer{
+    margin: 50px 0;
+}
+.bottomContainer{
+    background-color: aquamarine;
+}
+hr{
+    border-style: dotted none none none;
+    border-color: grey;
+    border-width: 7px;
+    width: 4%;
+}
+.profile-pic{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.top-cloud{
+    position: absolute;
+    top: 0px;
+    right: 200px;
+}
+.bottom-cloud{
+    position: absolute;
+    top: 140px;
+    left:200px;
+}
+.mountain{
+    height: 400px;
+    width: 700px;
+}
+.ux-pic{
+    margin-right: 30px;
+    float: left;
+    height:150px;
+    width: 150px;
+}
+.cooking-pic{
+    margin-right: 30px;
+    float: right;
+    height:150px;
+    width: 150px;    
+}
+.collection{
+    height: 20px;
+    width: 20px;
+    padding-right: 20px;
+
+}
